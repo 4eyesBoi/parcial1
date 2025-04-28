@@ -1,0 +1,6 @@
+observers\CommunityManager.class
+observers\IObserver.class
+observers\Periodista.class
+observers\Webmaster.class
+subjects\CursoManager.class
+main\Main.class
